@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(28,28,28);
+}
+canvas {
+  display: block;
+}
+
+p {
+  color:white;
+}
+
+#belowsketch {
+  position:relative;
+}
